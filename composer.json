@@ -22,8 +22,8 @@
         "guzzlehttp/guzzle": "^6.2.1||^7.2",
         "guzzlehttp/psr7": "^1.4.1||^2.6.0",
         "guzzlehttp/promises": "~1.0",
-        "laravel/framework": "^10.0.*",
-        "illuminate/support": "^10.0.*",
+        "laravel/framework": "^10.10.0",
+        "illuminate/support": "^10.10.0",
         "spatie/array-to-xml": "^2.5"
     },
     "autoload": {
