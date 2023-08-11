@@ -1,5 +1,5 @@
 {
-    "name": "rpsimao/invoicexpress-api",
+    "name": "zamblas/invoicexpress-api",
     "description": "Laravel Package to interact with InvoiceXpress API",
     "type": "library",
     "keywords": [
@@ -9,7 +9,7 @@
         "invoicexpress",
         "api"
     ],
-    "homepage": "https://github.com/rpsimao/invoicexpress-api",
+    "homepage": "https://github.com/zamblas/invoicexpress-api",
     "license": "MIT",
     "authors": [
         {
